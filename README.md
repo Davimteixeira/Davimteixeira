@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-### Olá sou Zidanyt 👋
-🔭 Atualmente estou estudando React
+### Olá sou Davi 👋
+🔭 Atualmente estou estudando Python e Django
 
-📫 Como chegar até mim: zidanyteixeira18@gmail.com
+📫 Como chegar até mim: daviteixeira077@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zidanyt&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidanyt&layout=compact&langs_count=16&theme=dark" />
