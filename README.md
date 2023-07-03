@@ -5,8 +5,8 @@
 
 📫 Como chegar até mim: daviteixeira077@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zidanyt&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidanyt&layout=compact&langs_count=16&theme=dark" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davimteixeira&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davimteixeira&layout=compact&langs_count=16&theme=dark" />
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
