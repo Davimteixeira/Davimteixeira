@@ -15,11 +15,13 @@ daviteixeira077@gmail.com
 ## Tecnologias que uso diariamente
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="python"  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img align="center" alt="django"  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img align="center" alt="python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="python"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="python"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/Davimteixeira.png?width=676&height=676">
+  <img align="center" alt="postgreSQL"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="right" alt="Davi" height="150" style="border-radius:50px;" src="https://github.com/Davimteixeira.png?width=676&height=676">
+  <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="UBUNTU" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
 </div>
 
 ##
