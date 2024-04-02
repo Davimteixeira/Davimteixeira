@@ -5,11 +5,12 @@
 
 📫 Como chegar até mim: 
  
- <div align="center">
+ <div align="left">
  <a href = "mailto:daviteixeira077@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-magalh%C3%A3es-75b574257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
- 
+
+ <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davimteixeira&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davimteixeira&layout=compact&langs_count=16&theme=dark" />
