@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Olá sou Davi 👋
-🔭 Atualmente estou estudando Python e Django
+🔭 Desenvolvedor de Software, graduando em análise e desenvolvimento de sistemas.
 
 📫 Como chegar até mim: 
 
